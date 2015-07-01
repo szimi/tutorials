@@ -1,0 +1,5 @@
+com/szimi/dropwizard/healtcheck/TemplateHealthCheck.class
+com/szimi/dropwizard/model/Saying.class
+com/szimi/dropwizard/configuration/HelloWorldConfiguration.class
+com/szimi/dropwizard/resource/HelloWorldResource.class
+com/szimi/dropwizard/boot/HelloWorldApplication.class
