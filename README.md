@@ -7,3 +7,5 @@ http://www.dropwizard.io/
 http://sparkjava.com/
 
 Java, Scala, Groovy
+
+MongoDB, Cassandra, Couchbase
