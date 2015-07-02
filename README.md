@@ -13,3 +13,5 @@ MongoDB, Cassandra, Couchbase
 JUnit, Spock, Selenium, Spock, Cucumber
 
 JQuery, AngularJs
+
+YUI, HTML5, CSS3, Responsive design
