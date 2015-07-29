@@ -21,3 +21,5 @@ ActiveMQ, RabbitMQ
 ZooKeeper
 
 https://github.com/szimi/tutorials
+
+https://github.com/Netflix/Hystrix
